@@ -1,0 +1,15 @@
+1- Inicio
+2- numero1 = 0
+   numero2 = 0
+  suma = 0
+  resta = 0
+  division = 0
+  Multiplicacion = 0
+3- leer numero1 
+4- leer numero2
+5- suma = numero1 + numero2
+6- resta = numero1 - numero2
+7- division = numero1 / numero2
+8- multiplicacion = numero1 * numero2
+9- Mostrar (suma = suma) (resta = resta) (multiplicaion = multiplicacion) (division = division)
+10- fin 
