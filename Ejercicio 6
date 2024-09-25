@@ -1,0 +1,11 @@
+1- Inicio 
+2- numero1 = 0
+  numero2 = 0
+  numero3 = 0
+  suma = 0
+3- leer numero1
+4- leer numero2
+5- leer numero3
+6- suma = numero1 + numero2 + numero3
+7- Mostrar resultados
+8- fin
