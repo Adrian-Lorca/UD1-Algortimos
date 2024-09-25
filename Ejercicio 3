@@ -1,0 +1,10 @@
+1- Inicio 
+2- cateto1 = 0
+   cateto2 = 0
+  area = 0
+3- leer cateto1
+4- leer cateto2
+5- area = cateto1^2 + cateto2^2
+6- raiz_cuadrada = Raizcuadrada(area)
+7- mostrar raiz cuadrada
+8- Fin 
