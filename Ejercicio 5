@@ -1,1 +1,9 @@
+1- Inicio
+2- grados Fahrenheit = 0
+   grados celsius = 0
 
+3- leer grados fahrenheit
+4- leer grados celsius
+4- grados celsius = (grados fahrenheit - 32) * 5/9
+5- Mostrar resultados 
+6- fin 
