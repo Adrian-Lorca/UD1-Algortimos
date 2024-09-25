@@ -1,0 +1,10 @@
+1- Inicio
+2- base = 0
+   altura = 0
+  perimetro = 0
+  area = 0
+3- leer base y altura 
+4- perimetro = 2 * base + altura 
+5- area = base * altura
+6- mostrar los resultados 
+7- Fin
