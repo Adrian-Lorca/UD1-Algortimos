@@ -1,0 +1,21 @@
+1- inicio 
+2- parcial1 = 0
+  parcial2 = 0 
+  parcial3 = 0
+  examen_final = 0
+  trabajo_final = 0
+  promedio_parciales = 0
+  porcentajes_parcial = 0
+  porcentaje_examen = 0
+  porcentaje_trabajo = 0
+  calificacion final = 0
+3- leer datos 
+4- promedio_parciales = (parcial1 + parcial2 + parcial3) / 3
+  porcentaje_parciales = promedio_parciales * 0.55
+  porcentaje_examen = examen_final * 0.30
+  porcentaje_trabajo = trabajo_final * 0.15
+  calificacion_final = porcentaje_parciales + porcentaje_examen + porcentaje_trabajo
+5- mostrar resultados
+6- Fin 
+
+
