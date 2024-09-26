@@ -1,3 +1,10 @@
 1- Inicio
-2- minuto = 0
-   hora = 0
+2- minutos = 0
+   horas = 0
+   minutos restantes = 0
+3- hora = minuto / 60
+   minutos_restantes = minutos - horas * 60
+4- leer datos 
+5- escribir minutos "minutos son" + horas "horas y " + minutos_restantes + "minutos"
+6- fin 
+   
