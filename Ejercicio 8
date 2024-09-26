@@ -1,2 +1,20 @@
-Inicio 
+1-Inicio 
+2-sueldo_base = 0
+  venta1 = 0
+  venta2 = 0
+  venta3 = 0
+  comision1 = 0
+  comision2 = 0
+  comision3 = 0
+  total_comisiones = 0
+  total_mensual = 0
+3- leer datos 
+4- comision1 = venta1 * 0.10
+   comision2 = venta2 * 0.10
+   comision3 = venta3 * 0.10  
+   total_comisiones = comision1 + comision2 + comision3 
+5-
+  total_mensual = sueldo_base + total_comisiones
+
+6- mostrar resultados
 
