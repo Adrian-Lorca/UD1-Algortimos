@@ -1,11 +1,11 @@
 Algoritmo ejercicio11
-	// Pide al usuario dos números y muestra la "distancia" entre ellos (el valor absoluto de su diferencia, de
+	// Pide al usuario dos nÃºmeros y muestra la "distancia" entre ellos (el valor absoluto de su diferencia, de
 	// modo que el resultado sea siempre positivo).
-	Escribir 'Introduce el primer número:'
+	Escribir 'Introduce el primer nÃºmero:'
 	Leer numero1
-	Escribir 'Introduce el segundo número:'
+	Escribir 'Introduce el segundo nÃºmero:'
 	Leer numero2
-	diferencia <- numero1-numero2
-	distancia <- diferencia
+	diferencia = numero1-numero2
+	distancia = diferencia
 	Escribir +distancia
 FinAlgoritmo
