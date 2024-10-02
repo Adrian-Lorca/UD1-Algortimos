@@ -1,6 +1,6 @@
 Algoritmo ejercicio15
-	//. Dadas dos variables numÈricas A y B, que el usuario debe teclear, se pide realizar un algoritmo que
-	//intercambie los valores de ambas variables y muestre cu·nto valen al final las dos variables
+	//. Dadas dos variables num√©ricas A y B, que el usuario debe teclear, se pide realizar un algoritmo que
+	//intercambie los valores de ambas variables y muestre cu√°nto valen al final las dos variables
 	Escribir "Introduce el valor de A:"
     Leer A
     Escribir "Introduce el valor de B:"
@@ -8,9 +8,9 @@ Algoritmo ejercicio15
 	
     Escribir "Antes del intercambio: A = ", A, " B = ", B
 	
-	temp = A
+	intercambio = A
     A = B
-    B = temp
+    B = intercambio
 	
-	Escribir "DespuÈs del intercambio: A = ", A, " B = ", B
+	Escribir "Despu√©s del intercambio: A = ", A, " B = ", B
 FinAlgoritmo
